@@ -2,6 +2,8 @@
 连连支付iOS SDK
 
 
+增加pod支持
+pod 'LLPaySDK'
 
 
 LLPaySDK iOS接入指南
