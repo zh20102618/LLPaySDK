@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = "LLPaySDK"
-  s.version = "2.4.6"
+  s.version = "2.6.7"
   s.summary = "连连支付iOS SDK"
   s.homepage = "https://github.com/zh20102618/LLPaySDK"
   s.license = "MIT"
