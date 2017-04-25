@@ -1,3 +1,51 @@
+Last login: Tue Apr 25 16:49:57 on ttys001
+mengjundeMac-mini:~ mengjunwangluo$ cd Desktop/
+mengjundeMac-mini:Desktop mengjunwangluo$ cd ios
+mengjundeMac-mini:ios mengjunwangluo$ vim .gitgnore
+mengjundeMac-mini:ios mengjunwangluo$ ls -a
+.		.DS_Store	.gitignore
+..		.git		DanNovel
+mengjundeMac-mini:ios mengjunwangluo$ cd .gitignore
+-bash: cd: .gitignore: Not a directory
+mengjundeMac-mini:ios mengjunwangluo$ vim .gitignore 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Xcode
+.DS_Store
+.DS_Store?
+*/build/*
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata
+profile
+*.moved-aside
+DerivedData
+.idea/
+*.hmap
+*.xccheckout
+*.xcworkspace
+!default.xcworkspace
+
+#CocoaPods
+
 # Xcode
 #
 # gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
